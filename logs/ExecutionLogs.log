@@ -1,0 +1,4 @@
+29.09.2024 15:26:46,248 INFO  ExtentReportListener:23 - test is added in pool.
+29.09.2024 15:26:46,380 INFO  ExplicitWaitActions:26 - user name test box  is avaiable on screen
+29.09.2024 15:26:46,519 INFO  ExplicitWaitActions:26 - passworkd text box is avaiable on screen
+29.09.2024 15:26:46,634 INFO  ExplicitWaitActions:42 - Login btn is clickable on screen
