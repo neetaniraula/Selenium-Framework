@@ -2,3 +2,15 @@
 29.09.2024 15:26:46,380 INFO  ExplicitWaitActions:26 - user name test box  is avaiable on screen
 29.09.2024 15:26:46,519 INFO  ExplicitWaitActions:26 - passworkd text box is avaiable on screen
 29.09.2024 15:26:46,634 INFO  ExplicitWaitActions:42 - Login btn is clickable on screen
+29.09.2024 18:34:21,340 INFO  ExtentReportListener:23 - test is added in pool.
+29.09.2024 18:34:22,001 INFO  ExplicitWaitActions:26 - user name test box  is avaiable on screen
+29.09.2024 18:34:22,094 INFO  ExplicitWaitActions:26 - passworkd text box is avaiable on screen
+29.09.2024 18:34:22,194 INFO  ExplicitWaitActions:42 - Login btn is clickable on screen
+29.09.2024 18:36:03,575 INFO  ExtentReportListener:23 - test is added in pool.
+29.09.2024 18:36:04,137 INFO  ExplicitWaitActions:26 - user name test box  is avaiable on screen
+29.09.2024 18:36:04,218 INFO  ExplicitWaitActions:26 - passworkd text box is avaiable on screen
+29.09.2024 18:36:04,315 INFO  ExplicitWaitActions:42 - Login btn is clickable on screen
+27.06.2025 14:59:08,742 INFO  ExtentReportListener:23 - test is added in pool.
+27.06.2025 14:59:09,324 INFO  ExplicitWaitActions:26 - user name test box  is avaiable on screen
+27.06.2025 14:59:09,434 INFO  ExplicitWaitActions:26 - passworkd text box is avaiable on screen
+27.06.2025 14:59:09,556 INFO  ExplicitWaitActions:42 - Login btn is clickable on screen
